@@ -2,7 +2,7 @@ Aquí podrás encontrar una lista sobre alternativas para TLauncher, recientemen
 
 ## [LauncherFenix](https://launcherfenix.com.ar/wope/descargas/launcherfenix-auto-actualizable-v7-5-7/) | (No Premium) 10/10 🛡
 
-Es una de las mejores y más conocidas alternativas, es un launcher muy liviano aún que su diseño es un poco antiguo pero es completamente seguro. 
+Es una de las mejores y más conocidas alternativas, es un launcher muy liviano aún que su diseño es un poco antiguo aunque completamente seguro. 
 
 ## [Salwyrr Launcher](https://www.salwyrr.com/download/) | (No Premium) 10/10 🛡
 
